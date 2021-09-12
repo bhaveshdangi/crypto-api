@@ -19,6 +19,8 @@ Once application is up and running, api swagger documentation will be available 
 http://localhost:9090/api/swagger-ui.html
 ``` 
 
+## H2 Database
+
 The h2 database console will be available at
 ```
 http://localhost:9090/api/h2-console
