@@ -25,4 +25,4 @@ The h2 database console will be available at
 ```
 http://localhost:9090/api/h2-console
 ``` 
-with admin/admin as a database username and password
+with `admin/admin` as a database username and password and `jdbc:h2:mem:crypto-db` as JDBC URL
